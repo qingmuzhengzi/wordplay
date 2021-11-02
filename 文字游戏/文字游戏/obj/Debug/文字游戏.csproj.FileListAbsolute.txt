@@ -1,0 +1,7 @@
+E:\unity\练习\文字游戏\文字游戏\bin\Debug\文字游戏.exe.config
+E:\unity\练习\文字游戏\文字游戏\bin\Debug\文字游戏.exe
+E:\unity\练习\文字游戏\文字游戏\bin\Debug\文字游戏.pdb
+E:\unity\练习\文字游戏\文字游戏\obj\Debug\文字游戏.csproj.AssemblyReference.cache
+E:\unity\练习\文字游戏\文字游戏\obj\Debug\文字游戏.csproj.CoreCompileInputs.cache
+E:\unity\练习\文字游戏\文字游戏\obj\Debug\文字游戏.exe
+E:\unity\练习\文字游戏\文字游戏\obj\Debug\文字游戏.pdb
